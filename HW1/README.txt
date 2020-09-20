@@ -1,4 +1,4 @@
-REPO FOR CODE AND DATASETS CAN BE FOUND HERE: https://github.com/anaqvi2/CS7641/HW1
+REPO FOR CODE AND DATASETS CAN BE FOUND HERE: https://github.com/anaqvi2/CS7641/tree/master/HW1
 
 1. The data for both datasets are in csv files in this very repo, they are referenced in the code, and therefore nothing needs to be downloaded, moved, or renamed.
 2. The code for this analysis is a jupyter notebook, I generate both datasets, and perform the analysis for both datasets inside the same notebook
